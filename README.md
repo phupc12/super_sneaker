@@ -1,7 +1,7 @@
 # Terms
- Repository(SUPER_SNEAKER)
+ Repository(super_sneaker)
 
  # Commands
 
- - git init
+ 
 
